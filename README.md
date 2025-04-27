@@ -1,5 +1,3 @@
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
-
 ## About Me
 
 I'm a seasoned IT professional based in New Jersey, leading an Infrastructure and Support team with a strong focus on Microsoft technologies. 
@@ -23,9 +21,7 @@ I'm a seasoned IT professional based in New Jersey, leading an Infrastructure an
 
 ## Let's Connect!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- **Personal Website**: [www.yourwebsite.com](https://www.yourwebsite.com)
+- **LinkedIn**: https://www.linkedin.com/in/piero-porfirio/
 
 Feel free to reach out if you'd like to discuss technology, chess strategies, historical insights, or any of the topics mentioned above. I'm always open to engaging conversations and collaborations!
 
